@@ -15,8 +15,8 @@ The mod also offers Auto-Complete, so you don't have to manually type in individ
 # Commands
 `/ecmd <add/remove/clear> <player> <enchantment> <level>`
 
-`Add` => Adds / Edits a new (or current) enchant
-`Remove` => Removes a specific enchant
+`Add` => Adds / Edits a new (or current) enchant  
+`Remove` => Removes a specific enchant  
 `Clear` => Clears all enchants from a given item
 
 To enchant an item, you must hold the item in your hand while typing the command.
