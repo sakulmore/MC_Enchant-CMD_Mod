@@ -1,8 +1,10 @@
+---
 name: Bug Report
 about: Bug reporting
 title: "[BUG]"
 labels: bug
 assignees: ''
+---
 
 ## Description
 (briefly describe what is happening)
