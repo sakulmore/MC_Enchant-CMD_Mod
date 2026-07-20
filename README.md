@@ -22,4 +22,4 @@ The mod also offers Auto-Complete, so you don't have to manually type in individ
 To enchant an item, you must hold the item in your hand while typing the command.
 
 # Showcases
-Will be added later...
+[https://youtu.be/QD4Yz0SATGE](https://youtu.be/QD4Yz0SATGE)
